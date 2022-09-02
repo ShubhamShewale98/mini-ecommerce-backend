@@ -1,0 +1,21 @@
+{
+  "name": "mini-ecommerce-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "json-server --watch db.json --port 3004"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShubhamShewale98/mini-ecommerce-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShubhamShewale98/mini-ecommerce-backend/issues"
+  },
+  "homepage": "https://github.com/ShubhamShewale98/mini-ecommerce-backend#readme"
+}
